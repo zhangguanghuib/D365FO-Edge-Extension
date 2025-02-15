@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="popup.css">
+    <title>D365FO Extension Tools</title>
+</head>
+<body>
+    <div class="popup-container">
+        <div class="tab">
+            <button class="tablinks" id="favoriteMenusTab">Favorite Menus</button>
+            <button class="tablinks" id="tableBrowserTab">Table Browser</button>
+            <button class="tablinks" id="classRunnerTab">Class Runner</button>
+        </div>
+
+        <div id="FavoriteMenus" class="tabcontent">
+            <div class="input-row">
+                <input type="text" id="newUrlInput" placeholder="Enter D365FO Menu Item Name">
+                <button id="addUrlButton">Add</button>
+            </div>
+            <div class="input-row">
+                <select id="urlInput"></select>
+                <button id="openUrlButton">Open</button>
+                <button id="removeUrlButton">Remove</button>
+            </div>
+        </div>
+
+        <div id="TableBrowser" class="tabcontent">
+            <div class="input-row">
+                <input type="text" id="newTableInput" placeholder="Enter Table Name">
+                <button id="openTableDirectlyBtn">Open Only</button>
+                <button id="addTableButton">Add</button>
+            </div>
+            <div class="input-row">
+                <select id="tableInput"></select>
+                <button id="openTableButton">Open</button>
+                <button id="removeTableButton">Remove</button>
+            </div>
+        </div>
+
+        <div id="ClassRunner" class="tabcontent">
+            <div class="input-row">
+                <label for="classNameInput">Class Name:</label>
+                <input type="text" id="classNameInput" placeholder="Enter Class Name">
+                <button id="runClassButton">Run</button>
+            </div>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+.popup-container {
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.tab {
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+    display: flex; /* Ensure buttons are in a single row */
+}
+
+.tab button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 12px; /* Adjust padding to fit text in a single line */
+    transition: 0.3s;
+    flex: 1; /* Ensure buttons take equal space */
+    text-align: center; /* Center the text */
+    white-space: nowrap; /* Prevent text from wrapping */
+    font-size: 14px; /* Adjust font size if necessary */
+}
+
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+.tabcontent {
+    display: none;
+    padding: 10px;
+    border-top: none;
+    width: 350px; /* Set a fixed width for the tab content */
+}
+
+.input-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.input-row label {
+    margin-right: 10px;
+}
+
+.input-row input,
+.input-row select {
+    flex: 1;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.input-row button {
+    padding: 5px 10px;
+}
