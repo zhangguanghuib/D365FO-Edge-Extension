@@ -31,3 +31,6 @@ To modify or enhance the extension, you can edit the following files:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Reference
+https://zhuanlan.zhihu.com/p/429086021
