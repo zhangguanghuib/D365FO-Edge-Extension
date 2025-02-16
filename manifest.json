@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "D365FO Favorite Menus",
+  "name": "D365FO Browser Tool",
   "version": "1.0",
-  "description": "D365FO Favorite Menus.",
+  "description": "D365FO Extenstion Tool for Browser.",
   "permissions": [
     "activeTab"
   ],

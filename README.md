@@ -1,26 +1,22 @@
 # Edge Extension
 
-This is a Microsoft Edge browser extension that allows users to open a specified URL directly from the extension's popup interface. 
+This is a Microsoft Edge/Google Chrome Browser extension that allows users to operate Dynamics 365 Finance & Operation from the extension's popup interface. 
 
 ## Features
 
-- Open a URL based on user input.
-- Simple and user-friendly interface.
-- Background script to manage extension lifecycle and events.
+- Open and Store Favourite Display Menu Items.
+- Open and Store Table from Table Browser.
+- Execute Runnable Class from SysClassRunner.
 
 ## Installation
 
-1. Download or clone the repository.
-2. Open Microsoft Edge and navigate to `edge://extensions`.
-3. Enable "Developer mode" by toggling the switch in the top right corner.
-4. Click on "Load unpacked" and select the `edge-extension` directory.
-5. The extension should now be loaded and visible in your extensions list.
+1. Open Microsoft Edge and navigate to `edge://extensions`.
+2. Search "D365FO Browser Tool", and install this Extension.
 
 ## Usage
 
-1. Click on the extension icon in the Edge toolbar.
-2. Enter the desired URL in the input field.
-3. Click the "Open URL" button to navigate to the specified URL.
+1. Click the Extension icon in the Edge toolbar to open a Dialog
+2. Click any of the 3 tab page to operate D365 FO.
 
 ## Development
 
