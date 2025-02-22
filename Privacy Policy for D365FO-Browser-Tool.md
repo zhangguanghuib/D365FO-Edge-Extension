@@ -19,7 +19,7 @@ Any data processed by the extension is solely used for the following purposes:
 <li>For this tool, the D365 FO Menu Items and Table Name Stored in the Local Indexed DB are only for the Extension funcationality</li>
 
 ## Data Sharing and Disclosure
-We do not sell, trade, or rent any personal information to third parties. We may share anonymized or aggregated data with analytics providers to understand user behavior, but this data cannot identify any individual user.
+We do not sell, trade, or rent any personal information to third parties. We will not share anonymized or aggregated data with analytics providers to understand user behavior, either.
 
 ## Third-Party Services
 Our extension will not interact with any third-party services.
@@ -30,9 +30,9 @@ We take reasonable steps to protect any information processed by the extension. 
 ## Changes to This Privacy Policy
 We may update this policy from time to time. Any changes will be posted on this page with an updated revision date.
 
-Contact Us
+## Contact Us
 If you have any questions about this Privacy Policy, you can contact us at:
-Email: zhangguanghui01@126.com
-Website: https://github.com/zhangguanghuib/D365FO-Edge-Extension
+<li>Email: zhangguanghui01@126.com</li>
+<li>Website: https://github.com/zhangguanghuib/D365FO-Edge-Extension</li>
 
 
