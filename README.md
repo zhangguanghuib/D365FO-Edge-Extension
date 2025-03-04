@@ -1,4 +1,4 @@
-# Edge Extension
+# D365FO Browser Tool
 
 This is a Microsoft Edge/Google Chrome Browser extension that allows users to operate Dynamics 365 Finance & Operation from the extension's popup interface. 
 
