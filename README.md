@@ -19,9 +19,9 @@ Compared to other D365 F&O Plugins,  the biggest advantage of this tool is it is
    ![image](https://github.com/user-attachments/assets/f48a47be-9273-4452-9508-159f15ab80d8)<br/>
    You will see it has 3 tab pages:<br/>
    <ul>
-     <li>Favorite Menus</li>
-     <li>Table Browser</li>
-     <li>Class Runner</li>
+     <li><mark>Favorite Menus</mark></li>
+     <li><mark>Table Browser</mark></li>
+     <li><mark>Class Runner</mark></li>
    </ul>
 
 2. For "Favorite Menus" tab page, you can input the display menu item name and then click "Add" button to add it to the list for future use:<br/>
