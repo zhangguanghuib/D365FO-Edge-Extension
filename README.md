@@ -24,7 +24,11 @@ Compared to other D365 F&O Plugins,  the biggest advantage of this tool is it is
      <li>Class Runner</li>
    </ul>
 
-2. Click any of the 3 tab page to operate D365 FO.
+2. For "Favorite Menus" tab page, you can input the display menu item name and then click "Add" button to add it to the list for future use:<br/>
+   ![image](https://github.com/user-attachments/assets/d2863f69-923f-4675-9f96-95c4fef46be5)<br/>
+   ![image](https://github.com/user-attachments/assets/f65224e5-f5dd-440c-a1a0-746c3f7c4641)
+
+
 
 ## Development
 
