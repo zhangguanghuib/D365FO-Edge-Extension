@@ -13,14 +13,17 @@ Compared to other D365 F&O Plugins,  the biggest advantage of this tool is it is
 - Click the Browser "Extensions" button and in the dropdown list, find this tool, and click "Pin" button to pin it to toolbar.
   ![image](https://github.com/user-attachments/assets/52673ae4-6c37-4ea2-8646-b25129a89a86)
 
-## Installation
-
-1. Open Microsoft Edge and navigate to `edge://extensions`.
-2. Search "D365FO Browser Tool", and install this Extension.
-
 ## Usage
 
-1. Click the Extension icon in the Edge toolbar to open a Dialog
+1. Click the Icon on the Edge Toolbar to open this tool:<br/>
+   ![image](https://github.com/user-attachments/assets/f48a47be-9273-4452-9508-159f15ab80d8)<br/>
+   You will see it has 3 tab pages:<br/>
+   <ul>
+     <li>Favorite Menus</li>
+     <li>Table Browser</li>
+     <li>Class Runner</li>
+   </ul>
+
 2. Click any of the 3 tab page to operate D365 FO.
 
 ## Development
