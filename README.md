@@ -1,6 +1,9 @@
 # D365FO Browser Tool
+## Introduction
+This is a Microsoft Edge Browser Plugin that can help improve the efficiency significantly for Microsoft Dynamics 365 Finance & Operations users in the daily operations when open a form, or open a table via table browser, or execute a runnable class, and this tool will store the Display Menu Items,  Table Names and Runnable Classes for future use.
 
-This is a Microsoft Edge/Google Chrome Browser extension that allows users to operate Dynamics 365 Finance & Operation from the extension's popup interface. 
+Compared to other D365 F&O Plugins,  the biggest advantage of this tool is it is across D365 FO Environments, that is to say:<br/>
+<mark>When you are running Environment A, Display Menu Items/Table Names/Runnable Classes which are stored into this tool, can also be used to Environment B, C, D etc. </mark>
 
 ## Features
 
