@@ -39,18 +39,12 @@ Compared to other D365 F&O Plugins,  the biggest advantage of this tool is it is
 
 ## Development
 
-To modify or enhance the extension, you can edit the following files:
+1. The main technology of this plugin is Indexed DB, see the techinical details from: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+2. That means all the data will be stored in the user's local Microsoft Edge Browser, and there is no server running backend, and it will not collect any personal data, so it is absolutely safe.
+3. Again, the data stored in this tool is across D365 Finance & Operation environment, hence when you use it, you will find it brings a quite big convenience.
 
-- `src/background.js`: Background script for managing events.
-- `src/content.js`: Content script for interacting with web pages.
-- `src/popup/popup.html`: HTML structure of the popup.
-- `src/popup/popup.js`: JavaScript logic for handling user interactions.
-- `src/popup/popup.css`: Styles for the popup.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+## GitHub Link:
+The source code of this tools is stored in https://github.com/zhangguanghuib/D365FO-Edge-Extension
 
 ## Reference
-https://zhuanlan.zhihu.com/p/429086021
 https://partner.microsoft.com/en-us/dashboard/microsoftedge/overview
