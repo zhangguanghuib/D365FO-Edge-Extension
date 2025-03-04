@@ -5,11 +5,13 @@ This is a Microsoft Edge Browser Plugin that can help improve the efficiency sig
 Compared to other D365 F&O Plugins,  the biggest advantage of this tool is it is across D365 FO Environments, that is to say:<br/>
 <mark>When you are running Environment A, Display Menu Items/Table Names/Runnable Classes which are stored into this tool, can also be used to Environment B, C, D etc. </mark>
 
-## Features
+## Installation Guidance 
 
-- Open and Store Favourite Display Menu Items.
-- Open and Store Table from Table Browser.
-- Execute Runnable Class from SysClassRunner.
+- Open this link :https://microsoftedge.microsoft.com/addons/detail/d365fo-browser-tool/ipmddejggdegjldcbjamipnmicolbbgc
+  ![image](https://github.com/user-attachments/assets/73adbcd6-342b-4cea-9c00-996cbe1959ef)<br/>
+- Click the button "Get" to install this Plugin, please notice this extension is already installed, hence there is a "Remove" button instead of "Get" button.
+- Click the Browser "Extensions" button and in the dropdown list, find this tool, and click "Pin" button to pin it to toolbar.
+  ![image](https://github.com/user-attachments/assets/52673ae4-6c37-4ea2-8646-b25129a89a86)
 
 ## Installation
 
